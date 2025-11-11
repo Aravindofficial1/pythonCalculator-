@@ -1,4 +1,4 @@
-# 🔢 Improved Python Calculator with Smart Choice Input + History
+# 🔢 Python Calculator with Smart Choice Input + History
 
 def add(x, y):
     return x + y
@@ -81,3 +81,4 @@ while True:
 
     print(f"✅ Result: {result}")
     history.append(text)
+
